@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.exe
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.deps.json
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.runtimeconfig.json
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.runtimeconfig.dev.json
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.dll
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\bin\Debug\netcoreapp3.1\CurrecyEnum.pdb
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.AssemblyInfo.cs
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.dll
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.pdb
+C:\Users\acer\source\repos\CurrecyEnum\CurrecyEnum\obj\Debug\netcoreapp3.1\CurrecyEnum.genruntimeconfig.cache
