@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.exe
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.deps.json
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.runtimeconfig.json
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.runtimeconfig.dev.json
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.dll
+C:\Users\acer\source\repos\casding\casding\bin\Debug\netcoreapp3.1\casding.pdb
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.AssemblyInfo.cs
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.dll
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.pdb
+C:\Users\acer\source\repos\casding\casding\obj\Debug\netcoreapp3.1\casding.genruntimeconfig.cache
